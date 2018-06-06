@@ -1,0 +1,38 @@
+{
+  "name": "makintau.com",
+  "short_name": "makintau.com",
+  "start_url": "https://www.makintau.com/?utm_source=homescreen",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ed4441",
+  "description": "MAKINTAU.com merupakan blog yang berisi artikel-artikel yang mungkin bisa menambah wawasan Anda sebagai pembaca.",
+  "icons": [{
+    "src": "https://2.bp.blogspot.com/-pbCdNWVVSlo/WxJ21BMYB2I/AAAAAAAAPbI/ukRTV7qSmBI2ItPSgKqL8uMv13Lk1k3MwCLcBGAs/s48/icon-512x512.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-pbCdNWVVSlo/WxJ21BMYB2I/AAAAAAAAPbI/ukRTV7qSmBI2ItPSgKqL8uMv13Lk1k3MwCLcBGAs/s72/icon-512x512.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-pbCdNWVVSlo/WxJ21BMYB2I/AAAAAAAAPbI/ukRTV7qSmBI2ItPSgKqL8uMv13Lk1k3MwCLcBGAs/s96/icon-512x512.pngg",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-pbCdNWVVSlo/WxJ21BMYB2I/AAAAAAAAPbI/ukRTV7qSmBI2ItPSgKqL8uMv13Lk1k3MwCLcBGAs/s144/icon-512x512.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-pbCdNWVVSlo/WxJ21BMYB2I/AAAAAAAAPbI/ukRTV7qSmBI2ItPSgKqL8uMv13Lk1k3MwCLcBGAs/s168/icon-512x512.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-pbCdNWVVSlo/WxJ21BMYB2I/AAAAAAAAPbI/ukRTV7qSmBI2ItPSgKqL8uMv13Lk1k3MwCLcBGAs/s192/icon-512x512.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-pbCdNWVVSlo/WxJ21BMYB2I/AAAAAAAAPbI/ukRTV7qSmBI2ItPSgKqL8uMv13Lk1k3MwCLcBGAs/s1600/icon-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
